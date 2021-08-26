@@ -1,5 +1,6 @@
 *.sqlite
 *__pycache__
-*/authkeys.py
+*/authkey.py
 .ipynb_checkpoints/
 *.ipynb
+*/modulos/authkey.py
